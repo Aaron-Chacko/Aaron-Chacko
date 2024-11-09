@@ -1,8 +1,9 @@
--  Hi, I’m @Aaron-Chacko
--  I’m interested in Learning new things
+# 👋 Hello, I'm Aaron Chacko!
+
+-  I’m interested in Learning and exploring.
 -  Currently learning DSA, Java Programming
 -  Looking to collaborate on DSA, basic Java projects
-- 📫 How to reach me aaronchacko05@gmail.com
+- 📫 How to reach me: aaronchacko05@gmail.com
 -  Fun fact: I enjoy making edits
 
 ## Connect with me
