@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Aaron Chacko!
 
 -  I’m interested in Learning and exploring.
--  Currently learning React and JavaScript
+-  Currently learning React and Figma.
 -  Looking to collaborate on DSA, React projects
 - 📫 How to reach me: aaronchacko05@gmail.com
 -  Fun fact: I enjoy making edits
