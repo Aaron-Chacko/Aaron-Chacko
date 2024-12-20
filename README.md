@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Aaron Chacko!
 
 -  I’m interested in Learning and exploring.
--  Currently learning React and UI/UX.
+-  Currently learning Node and UI/UX.
 -  Looking to collaborate on DSA, React, Figma projects
 - 📫 How to reach me: aaronchacko05@gmail.com
 -  Fun fact: I enjoy making edits
