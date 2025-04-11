@@ -1,5 +1,6 @@
 # 👋 Hello, I'm Aaron Chacko!
 
+-  MERN-MySQL Stack
 -  I’m interested in Learning and exploring.
 -  Looking to collaborate on JavaScript, Flutter projects.
 - 📫 How to reach me: aaronchacko05@gmail.com
